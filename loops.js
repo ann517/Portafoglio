@@ -163,11 +163,5 @@
 // }
 // console.log(string)
 
-    var string = "";
-    for (let x = 1; x <= 3;x++){
-        {
-       string = string + "* & ="     
-        }  
-    }
-    console.log(string)                       
+                          
 
