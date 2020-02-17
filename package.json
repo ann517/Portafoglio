@@ -1,0 +1,25 @@
+{
+  "name": "portafoglio",
+  "version": "1.0.0",
+  "description": "my personal portafoglio",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ann517/Portafoglio.git"
+  },
+  "author": "Alex Bella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ann517/Portafoglio/issues"
+  },
+  "homepage": "https://github.com/ann517/Portafoglio#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
